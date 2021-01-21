@@ -47,7 +47,8 @@ function budgetCalculator(watch, mobile, laptop)
 
 
 
-function hotelCost(daysCount) {
+function hotelCost(daysCount) 
+{
     var totalCost = 0;
     if (daysCount < 0)
     {
